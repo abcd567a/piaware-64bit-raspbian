@@ -11,7 +11,7 @@
 
 ## (1) Install DUMP1090-FA
 Copy-paste following command in SSH console and press Enter key. The script will install dump1090-fa. </br></br>
-`sudo bash -c "$(wget -O - https://raw.githubusercontent.com/abcd567a/piaware-64bit-raspbian/master/install-dump1090.sh)" `</br></br>
+`sudo bash -c "$(wget -O - https://raw.githubusercontent.com/abcd567a/piaware-64bit-raspbian/main/install-dump1090.sh)" `</br></br>
 
 **IMPORTANT: Please reboot Pi after installing the dump1090-fa.** </br></br>
 
@@ -19,7 +19,7 @@ Copy-paste following command in SSH console and press Enter key. The script will
 ## (2) Install PIAWARE 
 
 Copy-paste following command in SSH console and press Enter key. The script will install piaware. </br></br>
-`sudo bash -c "$(wget -O - https://raw.githubusercontent.com/abcd567a/piaware-64bit-raspbian/master/install-piaware.sh)" `</br></br>
+`sudo bash -c "$(wget -O - https://raw.githubusercontent.com/abcd567a/piaware-64bit-raspbian/main/install-piaware.sh)" `</br></br>
 
 
 ## (3) Install DUMP978-FA (For USA ONLY - Not required for other countries)
@@ -38,7 +38,7 @@ Copy-paste following command in SSH console and press Enter key. The script will
 **IMPORTANT:** After completing above commands, unplug and then replug both dongles. </br>
 
 ### (3.2) Copy-paste following command in SSH console and press Enter key. The script will install dump978-fa and skyaware978: </br>
-`sudo bash -c "$(wget -O - https://raw.githubusercontent.com/abcd567a/piaware-64bit-raspbian/master/install-dump978.sh)" `</br></br>
+`sudo bash -c "$(wget -O - https://raw.githubusercontent.com/abcd567a/piaware-64bit-raspbian/main/install-dump978.sh)" `</br></br>
 
 
 
